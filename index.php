@@ -25,12 +25,11 @@
 	</div>
 </div>
 
-<section class="ftco-section ftco-fullwidth goto-here">
+<!-- <section class="ftco-section ftco-fullwidth goto-here">
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-md-12 heading-section text-center ftco-animate mb-5">
-				<!-- <span class="subheading">Why Choose Us?</span> -->
 				<h2 class="mb-2">ABOUT THE COMPANY</h2>
 			</div>
 		</div>
@@ -59,7 +58,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="ftco-section">
 	<div class="container">
@@ -130,7 +129,7 @@
 	</div>
 </section>
 
-<section class="ftco-section ftco-no-pb ftco-no-pt">
+<!-- <section class="ftco-section ftco-no-pb ftco-no-pt">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/about-1.jpg);">
@@ -152,16 +151,15 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 
-<section class="ftco-section testimony-section">
+<!-- <section class="ftco-section testimony-section">
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="row justify-content-center mb-5">
 			<div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-				<!-- <span class="subheading">Testimonial</span> -->
-				<h2 class="mb-3">OUR PROVEN PROCESS</h2>
+				<h2 class="mb-3">CUSTOMER SUCCESS</h2>
 			</div>
 		</div>
 		<div class="row ftco-animate">
@@ -251,7 +249,7 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="ftco-appointment ftco-section ftco-no-pt ftco-no-pb img" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/bg_2.jpg);">
 	<div class="overlay"></div>

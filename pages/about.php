@@ -51,16 +51,16 @@
 
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
-                    <h2 class="mb-4">MISSION AND VISION</h2>
+                    <!-- <h2 class="mb-4">MISSION AND VISION</h2> -->
 
-                    <h3>Mission</h3>
+                    <h3 style="font-weight: bold; text-align: center;">Our <span style="color: #0D3166;">MISSION</span></h3>
                     <p>To promote financial stability and independence by providing accessible accounting and business
                         process
                         outsourcing solutions to businesses of all sizes, hence building an inclusive financial
                         landscape for our
                         clients.</p>
 
-                    <h3>Vision</h3>
+                    <h3 style="font-weight: bold; text-align: center;">Our <span style="color: #0D3166;">VISION</span></h3>
                     <p>To transform the financial landscape for companies of all sizes by becoming the world's leading
                         provider
                         of accounting and Business Process Outsourcing (BPO) services.
@@ -79,7 +79,7 @@
             </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
-                    <h2 class="mb-4">CORE VALUES</h2>
+                    <h2 class="mb-4">OUR <span style="color: #0D3166;">CORE VALUES</span></h2>
                     <ul class="ullisting">
                         <li>
                             <h3>INNOVATION</h3>
@@ -110,7 +110,7 @@
     <div class="container">
         <div class="row justify-content-center mb-5">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-                <h2 class="mb-3">OUR PROVEN PROCESS</h2>
+                <h2 class="mb-3">CUSTOMER SUCCESS</h2>
             </div>
         </div>
         <div class="row ftco-animate">

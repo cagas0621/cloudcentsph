@@ -20,27 +20,27 @@
                     <h2 class="mb-4">Administrative Tasks</h2>
                     <ul class="ullisting">
                         <li>
-                            <h3>Email/Inbox Management
+                            <h3>Email/inbox management
                             </h3>
                         </li>
                         <li>
-                            <h3>Calendar Management
+                            <h3>Calendar management
                             </h3>
                         </li>
                         <li>
-                            <h3>Travel Management
+                            <h3>Travel management
                             </h3>
                         </li>
                         <li>
-                            <h3>Event Coordination
+                            <h3>Event coordination
                             </h3>
                         </li>
                         <li>
-                            <h3>Task Management
+                            <h3>Task management
                             </h3>
                         </li>
                         <li>
-                            <h3>Meeting Support
+                            <h3>Meeting support
                             </h3>
                         </li>
                     </ul>
@@ -115,14 +115,14 @@
             <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/aboutbg.jpg');">
             </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
-                <div class="heading-section pt-md-4">
-                    <h2 class="mb-4">SERVICES</h2>
+                <div class="heading-section pt-md-4 text-justify">
+                    <!-- <h2 class="mb-4">SERVICES</h2> -->
 
-                    <p>Our virtual assistants are incredibly versatile. They can assist with tasks like answering questions, scheduling appointments, providing recommendations, and even offering emotional support.</p>
-                    <p>Interacting with our virtual assistants is intuitive and user-friendly, making it accessible for people of all ages and technical backgrounds.</p>
-                    <p>By handling repetitive and time-consuming tasks, our virtual assistants free up your time to focus on more strategic and enjoyable activities.</p>
-                    <p>A dedicated Team Lead will be assigned to your company when you hire at least three full time virtual assistants from us. The Team Lead will ensure that the tasks assigned are on track and aligned with your business objectives. No extra costs will be charged for the Team Lead.</p>
-                    <p>With our Virtual Assistants, you can focus more on your operations and save time and money!</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Our virtual assistants are incredibly versatile. They can assist with tasks like answering questions, scheduling appointments, providing recommendations, and even offering emotional support.</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Interacting with our virtual assistants is intuitive and user-friendly, making it accessible for people of all ages and technical backgrounds.</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> By handling repetitive and time-consuming tasks, our virtual assistants free up your time to focus on more strategic and enjoyable activities.</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> A dedicated Team Lead will be assigned to your company when you hire at least three full time virtual assistants from us. The Team Lead will ensure that the tasks assigned are on track and aligned with your business objectives. No extra costs will be charged for the Team Lead.</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> With our Virtual Assistants, you can focus more on your operations and save time and money!</p>
                 </div>
             </div>
         </div>

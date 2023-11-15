@@ -36,26 +36,26 @@
                                             <h2>Bookkeeping</h2>
                                         </li>
                                         <li>
-                                            <h2>Expense Tracking
+                                            <h2>Expense tracking
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Income Tracking
+                                            <h2>Income tracking
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Bank Reconciliation
+                                            <h2>Bank reconciliation
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Managing of Accounts Payables and Receivables
+                                            <h2>Managing of accounts payables and receivables
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Financial Statements Preparation</h2>
+                                            <h2>Financial statements preparation</h2>
                                         </li>
                                         <li>
-                                            <h2>Audit Support
+                                            <h2>Audit support
                                             </h2>
                                         </li>
                                     </ul>
@@ -73,11 +73,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
-                <div class="heading-section pt-md-4">
-                    <h2 class="mb-4">SERVICES</h2>
-                    <p>Our virtual accountants are a team of highly skilled and seasoned professionals with extensive experience in various accounting domains, including bookkeeping, tax preparation, financial analysis, and audit support. Their expertise ensures the highest quality of service for your business.</p>
-                    <p>Timely and accurate financial reporting is crucial for making informed decisions. Our virtual accountants are dedicated to delivering financial statements promptly and with the utmost precision, so you can rely on the numbers for your business decisions.</p>
-                    <p>Whether you are a small startup or a large corporation, our virtual accountants have the flexibility to adapt their services to your evolving needs. You won't need to worry about the complexities of recruiting and training additional staff.</p>
+                <div class="heading-section pt-md-4 text-justify">
+                    <!-- <h2 class="mb-4">SERVICES</h2> -->
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Our virtual accountants are a team of highly skilled and seasoned professionals with extensive experience in various accounting domains, including bookkeeping, tax preparation, financial analysis, and audit support. Their expertise ensures the highest quality of service for your business.</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Timely and accurate financial reporting is crucial for making informed decisions. Our virtual accountants are dedicated to delivering financial statements promptly and with the utmost precision, so you can rely on the numbers for your business decisions.</p>
+                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Whether you are a small startup or a large corporation, our virtual accountants have the flexibility to adapt their services to your evolving needs. You won't need to worry about the complexities of recruiting and training additional staff.</p>
                 </div>
             </div>
             <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/bg_12.jpg');">

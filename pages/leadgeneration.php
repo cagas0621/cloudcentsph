@@ -33,35 +33,35 @@
                                     <!-- {{-- <h1 class="text-justify">CORE VALUES</h1> --}} -->
                                     <ul class="ullisting">
                                         <li>
-                                            <h2>Market Research
+                                            <h2>Market research
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Lead Identification
+                                            <h2>Lead identification
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Email Marketing
+                                            <h2>Email marketing
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Cold Calling
+                                            <h2>Cold calling
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Data Management
+                                            <h2>Data management
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Lead Qualification
+                                            <h2>Lead qualification
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Lead Nurturing
+                                            <h2>Lead nurturing
                                             </h2>
                                         </li>
                                         <li>
-                                            <h2>Reporting and Analytics
+                                            <h2>Reporting and analytics
                                             </h2>
                                         </li>
                                     </ul>

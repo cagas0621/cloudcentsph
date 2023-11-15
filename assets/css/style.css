@@ -12914,7 +12914,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   padding: 7em 0;
-  background: #1a1a1a;
+  background: #0D3166;
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -14221,5 +14221,5 @@ textarea.form-control {
 }
 
 .ullisting li {
-  list-style: url("../images/arrows.svg");
+  list-style: url("../images/check.svg");
 }
