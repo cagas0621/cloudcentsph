@@ -67,7 +67,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/about_3.jpg);">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center backgoundimg" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/about_3.jpg);">
             </div>
         </div>
     </div>
@@ -75,7 +75,7 @@
 <section class="ftco-section ftco-no-pb ftco-no-pt">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/about_2.jpg);">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center backgoundimg" style="background-image: url(<?php bloginfo('template_directory');?>/assets/images/about_2.jpg);">
             </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">

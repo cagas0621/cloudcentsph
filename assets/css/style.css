@@ -12430,7 +12430,7 @@ h5,
 @media (max-width: 767.98px) {
   .ftco-fullwidth .one-half {
     width: 100%;
-    margin-left: 30px;
+    margin-left: 12px;
   }
 }
 
@@ -14230,4 +14230,17 @@ textarea.form-control {
 
 .ullisting_circle li {
   list-style: url("../images/circle.svg");
+}
+
+.headerlogoimg {
+  width: 300px;
+}
+@media only screen and (max-width: 600px) {
+  .headerlogoimg {
+    width: 200px;
+  }
+
+  .backgoundimg{
+    display: none !important;
+  }
 }
