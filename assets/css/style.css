@@ -14223,3 +14223,7 @@ textarea.form-control {
 .ullisting li {
   list-style: url("../images/check.svg");
 }
+
+.pointcolor{
+  color: #FDBE34;
+}

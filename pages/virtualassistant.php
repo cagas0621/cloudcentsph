@@ -118,11 +118,11 @@
                 <div class="heading-section pt-md-4 text-justify">
                     <!-- <h2 class="mb-4">SERVICES</h2> -->
 
-                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Our virtual assistants are incredibly versatile. They can assist with tasks like answering questions, scheduling appointments, providing recommendations, and even offering emotional support.</p>
-                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> Interacting with our virtual assistants is intuitive and user-friendly, making it accessible for people of all ages and technical backgrounds.</p>
-                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> By handling repetitive and time-consuming tasks, our virtual assistants free up your time to focus on more strategic and enjoyable activities.</p>
-                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> A dedicated Team Lead will be assigned to your company when you hire at least three full time virtual assistants from us. The Team Lead will ensure that the tasks assigned are on track and aligned with your business objectives. No extra costs will be charged for the Team Lead.</p>
-                    <p><span class="fa fa-circle">&nbsp; &nbsp;</span> With our Virtual Assistants, you can focus more on your operations and save time and money!</p>
+                    <p><span class="fa fa-circle pointcolor">&nbsp; &nbsp;</span> Our virtual assistants are incredibly versatile. They can assist with tasks like answering questions, scheduling appointments, providing recommendations, and even offering emotional support.</p>
+                    <p><span class="fa fa-circle pointcolor">&nbsp; &nbsp;</span> Interacting with our virtual assistants is intuitive and user-friendly, making it accessible for people of all ages and technical backgrounds.</p>
+                    <p><span class="fa fa-circle pointcolor">&nbsp; &nbsp;</span> By handling repetitive and time-consuming tasks, our virtual assistants free up your time to focus on more strategic and enjoyable activities.</p>
+                    <p><span class="fa fa-circle pointcolor">&nbsp; &nbsp;</span> A dedicated Team Lead will be assigned to your company when you hire at least three full time virtual assistants from us. The Team Lead will ensure that the tasks assigned are on track and aligned with your business objectives. No extra costs will be charged for the Team Lead.</p>
+                    <p><span class="fa fa-circle pointcolor">&nbsp; &nbsp;</span> With our Virtual Assistants, you can focus more on your operations and save time and money!</p>
                 </div>
             </div>
         </div>
