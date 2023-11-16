@@ -14224,6 +14224,10 @@ textarea.form-control {
   list-style: url("../images/check.svg");
 }
 
-.pointcolor{
+.pointcolor {
   color: #FDBE34;
+}
+
+.ullisting_circle li {
+  list-style: url("../images/circle.svg");
 }
