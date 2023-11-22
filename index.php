@@ -25,41 +25,6 @@
 	</div>
 </div>
 
-<!-- <section class="ftco-section ftco-fullwidth goto-here">
-	<div class="overlay"></div>
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-md-12 heading-section text-center ftco-animate mb-5">
-				<h2 class="mb-2">ABOUT THE COMPANY</h2>
-			</div>
-		</div>
-	</div>
-	<div class="container-fluid px-0">
-		<div class="row d-sm-flex text-wrapper align-items-stretch">
-			<div class="one-half mb-md-0 mb-4 img d-flex align-self-stretch" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/about.jpg');"></div>
-			<div class="one-half half-text d-flex justify-content-end align-items-center">
-				<div class="text-inner pt-md-5 pl-md-5">
-					<div class="row d-flex">
-						<div class="col-md-12 d-flex align-self-stretch ftco-animate">
-							<div class="media block-6 services-wrap d-flex">
-								<div class="media-body pl-4">
-									<h4 class="text-justify">CloudCents Co. is company that provides comprehensive
-										business process outsourcing (BPO) solutions in the field of accounting and
-										virtual agency services. The corporation shall offer a wide range of
-										accounting services, including financial statement preparation, budgeting
-										and forecasting, accounts payable and receivable management, general ledger
-										maintenance, and financial analysis.
-									</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-
 <section class="ftco-section">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -129,37 +94,12 @@
 	</div>
 </section>
 
-<!-- <section class="ftco-section ftco-no-pb ftco-no-pt">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/about-1.jpg);">
-			</div>
-			<div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
-				<div class="heading-section">
-					<h2 class="mb-4">NARRATIVE</h2>
-
-					<p>Our virtual assistants are incredibly versatile. They can assist with tasks like answering questions, scheduling appointments, providing recommendations, and even offering emotional support. <br><br>
-
-						Interacting with our virtual assistants is intuitive and user-friendly, making it accessible for people of all ages and technical backgrounds.<br><br>
-
-						By handling repetitive and time-consuming tasks, our virtual assistants free up your time to focus on more strategic and enjoyable activities.<br><br>
-
-						A dedicated Team Lead will be assigned to your company when you hire at least three full time virtual assistants from us. The Team Lead will ensure that the tasks assigned are on track and aligned with your business objectives. No extra costs will be charged for the Team Lead.<br><br>
-
-						With our Virtual Assistants, you can focus more on your operations and save time and money!</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
-
-
-<!-- <section class="ftco-section testimony-section">
+<section class="ftco-section testimony-section">
 	<div class="overlay"></div>
 	<div class="container">
 		<div class="row justify-content-center mb-5">
 			<div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-				<h2 class="mb-3">CUSTOMER SUCCESS</h2>
+				<h2 class="mb-3">MEET THE TEAM</h2>
 			</div>
 		</div>
 		<div class="row ftco-animate">
@@ -167,81 +107,73 @@
 				<div class="carousel-testimony owl-carousel ftco-owl">
 					<div class="item">
 						<div class="testimony-wrap py-4">
-							<div class="icon d-flex align-items-center justify-content-center"><img src="<?php bloginfo('template_directory'); ?>/assets/images/PROCESS/2.png" alt=""></div>
-							<br>
 							<div class="text">
-								<h3>ENGAGE</h3>
-								<ul class="mb-4">
-									<li>Signing of proposal / confirms the service engagement
-									</li>
-								</ul>
+								<a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="block-20 img" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_arnie.jpg');">
+								</a>
+								<h3 class="heading"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">ARNIE LAMBOLOTO , CPA</a></h3>
+								<div class="meta mb-1">
+									<div><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">Chief Financial Officer</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testimony-wrap py-4">
-							<div class="icon d-flex align-items-center justify-content-center"><img src="<?php bloginfo('template_directory'); ?>/assets/images/PROCESS/3.png" alt=""></div>
-							<br>
 							<div class="text">
-								<h3>INTEGRATION</h3>
-								<ul class="mb-4">
-									<li>Alignment of work and expectations
-									</li>
-									<li>Onboarding starts (training and documentation about the client's processes,
-										tools, and systems)
-									</li>
-								</ul>
+								<a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="block-20 img" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_fev.jpg');">
+								</a>
+								<h3 class="heading"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">CHRISTIAN FEV CENDANA, CPA</a></h3>
+								<div class="meta mb-1">
+									<div><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">Director</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testimony-wrap py-4">
-							<div class="icon d-flex align-items-center justify-content-center"><img src="<?php bloginfo('template_directory'); ?>/assets/images/PROCESS/4.png" alt=""></div>
-							<br>
 							<div class="text">
-								<h3>EXECUTION</h3>
-								<ul class="mb-4">
-									<li>Formally start of the engagement
-									</li>
-								</ul>
+								<a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="block-20 img" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_juzz.jpg');">
+								</a>
+								<h3 class="heading"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">JUZZTINE JAINE BERNARDO</a></h3>
+								<div class="meta mb-1">
+									<div><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">Business Development Officer</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testimony-wrap py-4">
-							<div class="icon d-flex align-items-center justify-content-center"><img src="<?php bloginfo('template_directory'); ?>/assets/images/PROCESS/5.png" alt=""></div>
-							<br>
 							<div class="text">
-								<h3>QUALITY ASSURANCE</h3>
-								<ul class="mb-4">
-									<li>Performance monitoring Regular audits</li>
-								</ul>
+								<a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="block-20 img" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_josel.jpeg');">
+								</a>
+								<h3 class="heading"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">MARY JOSEL ORDAN</a></h3>
+								<div class="meta mb-1">
+									<div><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">Senior Accountant</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testimony-wrap py-4">
-							<div class="icon d-flex align-items-center justify-content-center"><img src="<?php bloginfo('template_directory'); ?>/assets/images/PROCESS/6.png" alt=""></div>
-							<br>
 							<div class="text">
-								<h3>CONTINUOUS IMPROVEMENT</h3>
-								<ul class="mb-4">
-									<li>Gather feedback from clients, analyze performance data, and identify areas
-										for enhancement.</li>
-								</ul>
+								<a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="block-20 img" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_audrey.jpg');">
+								</a>
+								<h3 class="heading"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">AUDREY EUNICE ARIOLA</a></h3>
+								<div class="meta mb-1">
+									<div><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">Senior Accountant</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="item">
 						<div class="testimony-wrap py-4">
-							<div class="icon d-flex align-items-center justify-content-center"><img src="<?php bloginfo('template_directory'); ?>/assets/images/PROCESS/1.png" alt=""></div>
-							<br>
 							<div class="text">
-								<h3>DISCOVER</h3>
-								<ul class="mb-4">
-									<li>Exploratory meeting</li>
-									<li>Identifying the business needs</li>
-								</ul>
+								<a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="block-20 img" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_mharyss.jpg');">
+								</a>
+								<h3 class="heading"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">MARISOL REYES, CPA</a></h3>
+								<div class="meta mb-1">
+									<div><a href="<?php echo get_permalink(get_page_by_path('team')); ?>">Chief Executive Officer</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -249,7 +181,7 @@
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <section class="ftco-appointment ftco-section ftco-no-pt ftco-no-pb img" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/bg_2.jpg);">
 	<div class="overlay"></div>

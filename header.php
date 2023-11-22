@@ -53,6 +53,7 @@
 							</ul>
 						</div>
 					</li>
+					<li class="nav-item <?php echo ($url_name == 'team') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="btn-nav nav-link">Team</a></li>
 					<li class="nav-item <?php echo ($url_name == 'contact_us') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('contact_us')); ?>" class="btn-nav nav-link">Contact US</a></li>
 				</ul>
 			</div>

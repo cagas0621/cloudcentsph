@@ -11527,13 +11527,13 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #21bf73;
+  color: #000000;
 }
 
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #21bf73;
+  color: #0D3166;
   outline: none !important;
 }
 
@@ -13532,13 +13532,13 @@ textarea.form-control {
 
 .block-20 {
   overflow: hidden;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
   position: relative;
   display: block;
   width: 100%;
-  height: 200px;
+  height: 250px;
   margin-bottom: 20px;
 }
 
@@ -13999,17 +13999,17 @@ textarea.form-control {
 .sidelink li a:hover,
 .sidelink li a:focus {
   outline: none;
-  color: #21bf73;
+  color: #000000;
 }
 
 .categories li.active a,
 .sidelink li.active a {
-  color: #21bf73;
+  color: #000000;
 }
 
 .categories li.active a span,
 .sidelink li.active a span {
-  color: #21bf73;
+  color: #000000;
 }
 
 #ftco-loader {
@@ -14243,4 +14243,8 @@ textarea.form-control {
   .backgoundimg{
     display: none !important;
   }
+}
+
+.teamimg {
+  background-size: 25em !important;
 }
