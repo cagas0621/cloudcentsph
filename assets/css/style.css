@@ -14235,13 +14235,22 @@ textarea.form-control {
 .headerlogoimg {
   width: 300px;
 }
+
 @media only screen and (max-width: 600px) {
   .headerlogoimg {
     width: 200px;
   }
 
-  .backgoundimg{
-    display: none !important;
+  .backgoundimg {
+    height: 400px !important;
+    margin-bottom: 10px;
+  }
+
+  .img,
+  .img-2,
+  .blog-img,
+  .user-img {
+    height: 400px;
   }
 }
 

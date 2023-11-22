@@ -11,8 +11,7 @@
 					</p>
 					<ul class="ftco-footer-social list-unstyled mt-5">
 						<li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>
-						<li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>
-						<!-- <li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li> -->
+						<li class="ftco-animate"><a href="https://www.facebook.com/cloudcentsco" target="_blank" rel="noopener noreferrer"><span class="fa fa-facebook"></span></a></li>
 					</ul>
 				</div>
 			</div>
