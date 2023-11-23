@@ -1,4 +1,4 @@
-<section class="hero-wrap hero-wrap-2" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/bg_3.jpg');" data-stellar-background-ratio="0.5">
+<section class="hero-wrap hero-wrap-2" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/NEW/contactus.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -26,16 +26,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-md-3">
-                                <div class="dbox w-100 text-center">
-                                    <div class="icon d-flex align-items-center justify-content-center">
-                                        <span class="fa fa-phone"></span>
-                                    </div>
-                                    <div class="text">
-                                        <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
-                                    </div>
-                                </div>
-                            </div> -->
                         <div class="col-md-6">
                             <div class="dbox w-100 text-center">
                                 <div class="icon d-flex align-items-center justify-content-center">
@@ -47,16 +37,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-md-3">
-                                <div class="dbox w-100 text-center">
-                                    <div class="icon d-flex align-items-center justify-content-center">
-                                        <span class="fa fa-globe"></span>
-                                    </div>
-                                    <div class="text">
-                                        <p><span>Website</span> <a href="#">example.com</a></p>
-                                    </div>
-                                </div>
-                            </div> -->
                     </div>
                     <div class="row no-gutters">
                         <div class="col-md-7">

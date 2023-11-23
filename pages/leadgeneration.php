@@ -1,4 +1,4 @@
-<section class="hero-wrap hero-wrap-2" style="background-image: url('<?php bloginfo('template_directory');?>/assets/images/bg_3.jpg');" data-stellar-background-ratio="0.5">
+<section class="hero-wrap hero-wrap-2" style="background-image: url('<?php bloginfo('template_directory');?>/assets/images/NEW/servicesheader.jpg');" data-stellar-background-ratio="0.5">
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -10,65 +10,47 @@
         </div>
     </div>
 </section>
-
-<section class="ftco-section ftco-fullwidth goto-here">
-    <div class="overlay"></div>
+<section class="ftco-section ftco-no-pb ftco-no-pt">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-12 heading-section text-center ftco-animate mb-5">
-                <!-- {{-- <h2 class="mb-2">VIRTUAL BOOKKEEPING</h2> --}} -->
+        <div class="row">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/image_6.jpg);">
             </div>
-        </div>
-    </div>
-    <div class="container-fluid px-0">
-        <div class="row d-sm-flex text-wrapper align-items-stretch">
-            <div class="one-half mb-md-0 mb-4 img d-flex align-self-stretch" style="background-image: url('<?php bloginfo('template_directory');?>/assets/images/image_6.jpg');"></div>
-            <div class="one-half half-text d-flex justify-content-end align-items-center">
-                <div class="text-inner pt-md-5 pl-md-5">
-                    <div class="row d-flex">
-                        <div class="col-md-12 d-flex align-self-stretch ftco-animate">
-                            <div class="media block-6 services-wrap d-flex">
-                                <div class="media-body pl-6">
-
-                                    <!-- {{-- <h1 class="text-justify">CORE VALUES</h1> --}} -->
-                                    <ul class="ullisting">
-                                        <li>
-                                            <h2>Market research
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Lead identification
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Email marketing
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Cold calling
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Data management
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Lead qualification
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Lead nurturing
-                                            </h2>
-                                        </li>
-                                        <li>
-                                            <h2>Reporting and analytics
-                                            </h2>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
+                <div class="heading-section pt-md-4">
+                    <ul class="ullisting">
+                        <li>
+                            <h3>Market research
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Lead identification
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Email marketing
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Cold calling
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Data management
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Lead qualification
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Lead nurturing
+                            </h3>
+                        </li>
+                        <li>
+                            <h3>Reporting and analytics
+                            </h3>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>

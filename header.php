@@ -39,7 +39,7 @@
 				$url_name = end($url_parts);
 				?>
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item <?php echo ($url_name == 'wordpress' || $url_name == '') ? 'active' : '' ?> "><a href="<?php echo home_url(); ?>" class="btn-nav nav-link">Home</a></li>
+					<li class="nav-item <?php echo ($url_name == 'cloudcentsph' || $url_name == ' ') ? 'active' : '' ?> "><a href="<?php echo home_url(); ?>" class="btn-nav nav-link">Home</a></li>
 					<li class="nav-item <?php echo ($url_name == 'about') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('about')); ?>" class="btn-nav nav-link">About</a></li>
 					<li class="nav-item dropdownmenu">
 						<div class="btn-group">
@@ -47,7 +47,7 @@
 								Services
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-								<li><a class="dropdown-item <?php echo ($url_name == 'virtual_bookkeeping') ? 'active' : '' ?>" href="<?php echo get_permalink(get_page_by_path('virtual_bookkeeping')) ?>">Virtual Bookkeeping</a></li>
+								<li><a class="dropdown-item <?php echo ($url_name == 'virtual_accounting') ? 'active' : '' ?>" href="<?php echo get_permalink(get_page_by_path('virtual_accounting')) ?>">Virtual Accounting</a></li>
 								<li><a class="dropdown-item <?php echo ($url_name == 'virtual_assistant') ? 'active' : '' ?>" href="<?php echo get_permalink(get_page_by_path('virtual_assistant')) ?>">Virtual Assistant</a></li>
 								<li><a class="dropdown-item <?php echo ($url_name == 'lead_generation') ? 'active' : '' ?>" href="<?php echo get_permalink(get_page_by_path('lead_generation')) ?>">Lead Generation</a></li>
 							</ul>

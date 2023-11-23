@@ -15,8 +15,8 @@ switch ($url_name) {
     case "contact_us":
         require get_template_directory() . '/pages/contactus.php';
         break;
-    case "virtual_bookkeeping":
-        require get_template_directory() . '/pages/virtualbookkeeping.php';
+    case "virtual_accounting":
+        require get_template_directory() . '/pages/virtualaccounting.php';
         break;
     case "virtual_assistant":
         require get_template_directory() . '/pages/virtualassistant.php';

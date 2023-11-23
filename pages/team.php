@@ -14,7 +14,8 @@
 <section class="ftco-section ftco-no-pb ftco-no-pt">
     <div class="container">
         <div class="row">
-
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg d-block d-sm-none" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_mharyss.jpg);">
+            </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
                     <h3 class="mb-4 font-weight-bold">MARISOL REYES, CPA <br><span style="font-size:large;">Chief Executive Officer</span></h3>
@@ -23,7 +24,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_mharyss.jpg);">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg d-none d-sm-block" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_mharyss.jpg);">
             </div>
         </div>
     </div>
@@ -47,6 +48,8 @@
 <section class="ftco-section ftco-no-pb ftco-no-pt">
     <div class="container">
         <div class="row">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg d-block d-sm-none" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_fev.jpg);">
+            </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
                     <h3 class="mb-4 font-weight-bold">CHRISTIAN FEV CENDANA, CPA<br><span style="font-size:large;">Director</span></h3>
@@ -55,7 +58,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_fev.jpg);">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg d-none d-sm-block" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_fev.jpg);">
             </div>
         </div>
     </div>
@@ -79,6 +82,8 @@
 <section class="ftco-section ftco-no-pb ftco-no-pt">
     <div class="container">
         <div class="row">
+        <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg d-block d-sm-none" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_josel.jpeg);">
+            </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
                     <h3 class="mb-4 font-weight-bold">MARY JOSEL ORDAN<br><span style="font-size:large;">Senior Accountant</span></h3>
@@ -87,7 +92,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_josel.jpeg);">
+            <div class="col-md-6 img img-3 d-flex justify-content-center align-items-center teamimg d-none d-sm-block" style="background-image: url(<?php bloginfo('template_directory'); ?>/assets/images/TEAM/website_josel.jpeg);">
             </div>
         </div>
     </div>

@@ -7531,11 +7531,11 @@ button.bg-dark:focus {
   display: table-cell !important;
 }
 
-.d-flex {
+/* .d-flex {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
   display: flex !important;
-}
+} */
 
 .d-inline-flex {
   display: -webkit-inline-box !important;
