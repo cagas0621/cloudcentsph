@@ -39,7 +39,7 @@
 				$url_name = end($url_parts);
 				?>
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item <?php echo $url_name;?> <?php echo ($url_name == 'cloudcentsph' || $url_name == '') ? 'active' : '' ?> "><a href="<?php echo home_url(); ?>" class="btn-nav nav-link">Home</a></li>
+					<li class="nav-item <?php echo ($url_name == 'cloudcentsph.net' || $url_name == '') ? 'active' : '' ?> "><a href="<?php echo home_url(); ?>" class="btn-nav nav-link">Home</a></li>
 					<li class="nav-item <?php echo ($url_name == 'about') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('about')); ?>" class="btn-nav nav-link">About</a></li>
 					<li class="nav-item dropdownmenu">
 						<div class="btn-group">
