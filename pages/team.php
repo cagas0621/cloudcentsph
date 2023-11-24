@@ -36,7 +36,7 @@
             </div>
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
-                    <h3 class="mb-4 font-weight-bold">ARNIE LAMBOLOTO , CPA <br><span style="font-size:large;">Chief Financial Officer</span></h3>
+                    <h3 class="mb-4 font-weight-bold">ARNIE LAMBOLOTO, CPA <br><span style="font-size:large;">Chief Financial Officer</span></h3>
                     <p class="text-justify">
                         Arnie, our financial wizard and Chief Financial Officer extraordinaire! With a distinguished background in accounting, audit and finance for almost a decade, he is the brain behind our financial game plan. But Arnie isn't just about crunching numbers; he whip up financial strategies that make our business dreams a reality. Whether it's tackling money matters or plotting out the next big financial move, Arnie brings a mix of smarts and street savvy. Beyond the spreadsheets, he is very funny and humorous and a good cook, making our leadership team not just sharp but downright cool.
                     </p>

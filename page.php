@@ -13,6 +13,7 @@ switch ($url_name) {
         require get_template_directory() . '/pages/team.php';
         break;
     case "contact_us":
+        require get_template_directory() . '/pages/emailconfig.php';
         require get_template_directory() . '/pages/contactus.php';
         break;
     case "virtual_accounting":

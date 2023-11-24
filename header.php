@@ -39,7 +39,7 @@
 				$url_name = end($url_parts);
 				?>
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item <?php echo ($url_name == 'cloudcentsph.net' || $url_name == '') ? 'active' : '' ?> "><a href="<?php echo home_url(); ?>" class="btn-nav nav-link">Home</a></li>
+					<li class="nav-item <?php echo ($url_name == 'cloudcentsph.net' || $url_name == '') ? 'active' : '' ?> "><a style="border-top-left-radius: 10px; border-bottom-left-radius: 10px;" href="<?php echo home_url(); ?>" class="btn-nav nav-link">Home</a></li>
 					<li class="nav-item <?php echo ($url_name == 'about') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('about')); ?>" class="btn-nav nav-link">About</a></li>
 					<li class="nav-item dropdownmenu">
 						<div class="btn-group">
@@ -54,7 +54,7 @@
 						</div>
 					</li>
 					<li class="nav-item <?php echo ($url_name == 'team') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('team')); ?>" class="btn-nav nav-link">Team</a></li>
-					<li class="nav-item <?php echo ($url_name == 'contact_us') ? 'active' : '' ?>"><a href="<?php echo get_permalink(get_page_by_path('contact_us')); ?>" class="btn-nav nav-link">Contact US</a></li>
+					<li class="nav-item <?php echo ($url_name == 'contact_us') ? 'active' : '' ?>"><a style="border-top-right-radius: 10px; border-bottom-right-radius: 10px;" href="<?php echo get_permalink(get_page_by_path('contact_us')); ?>" class="btn-nav nav-link">Contact US</a></li>
 				</ul>
 			</div>
 		</div>

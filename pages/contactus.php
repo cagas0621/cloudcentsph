@@ -32,7 +32,7 @@
                                     <span class="fa fa-paper-plane"></span>
                                 </div>
                                 <div class="text">
-                                    <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@cloudcentsph.net</a>
+                                    <p><span>Email:</span> <a href="mailto:info@cloudcentsph.net">info@cloudcentsph.net</a>
                                     </p>
                                 </div>
                             </div>
@@ -47,31 +47,31 @@
                                         <div class="col-md-6">
                                             <div class="form-group">
                                                 <label class="label" for="name">Name <span class="text-danger">*</span></label>
-                                                <input type="text" class="form-control" name="first" id="first" placeholder="First">
+                                                <input type="text" class="form-control" name="firstname" id="first" placeholder="First" required>
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
                                                 <br>
-                                                <input type="text" class="form-control" name="last" id="last" placeholder="Last">
+                                                <input type="text" class="form-control" name="lastname" id="last" placeholder="Last" required>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label class="label" for="subject">Email <span class="text-danger">*</span></label>
-                                                <input type="email" class="form-control" name="email" id="email">
+                                                <input type="email" class="form-control" name="email" id="email" required>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label class="label" for="#">Mobile Number <span class="text-danger">*</span></label>
-                                                <input type="text" class="form-control" name="phone" id="phone">
+                                                <input type="text" class="form-control" name="phone" id="phone" required>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label class="label" for="#">Comment or Message <span class="text-danger">*</span></label>
-                                                <textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+                                                <textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message" required></textarea>
                                             </div>
                                         </div>
                                         <div class="col-md-12">

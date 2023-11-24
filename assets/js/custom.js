@@ -15,4 +15,6 @@
 			$('.dropdown-menu').removeClass('show');
 		}
 	);
+
+	
 })(jQuery);

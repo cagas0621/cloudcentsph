@@ -11607,6 +11607,7 @@ h5,
   padding-right: 20px;
   color: #0D3166;
   opacity: 1 !important;
+  background: radial-gradient(circle closest-side, #fff, #fff);
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.btn-group>.nav-link {
@@ -11617,6 +11618,7 @@ h5,
   padding-right: 20px;
   color: #0D3166;
   opacity: 1 !important;
+  background: radial-gradient(circle closest-side, #fff, #fff);
 }
 
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
@@ -14251,6 +14253,22 @@ textarea.form-control {
   .blog-img,
   .user-img {
     height: 400px;
+  }
+
+  .contactus {
+    height: 700px;
+  }
+
+  .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
+    background: none;
+  }
+
+  .ftco-navbar-light .navbar-nav>.nav-item>.btn-group>.nav-link {
+    background: none;
+  }
+
+  .btn1 {
+    margin-bottom: 10px;
   }
 }
 
