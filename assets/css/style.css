@@ -11960,26 +11960,40 @@ h5,
 }
 
 .slider-text .breadcrumbs span {
-  color: rgba(0, 0, 0, 0.7);
+  color: #0D3166;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px #fff;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(13, 49, 102, 0.5);
 }
 
 .slider-text .breadcrumbs span i {
-  color: rgba(0, 0, 0, 0.5);
+  color: #0D3166;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px #fff;
   font-size: 13px;
+  background-color: #fff;
 }
 
 .slider-text .breadcrumbs span a {
-  color: rgba(0, 0, 0, 0.7);
+  color: #0D3166;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px #fff;
+  background-color: #fff;
 }
 
 .slider-text .breadcrumbs span a:hover,
 .slider-text .breadcrumbs span a:focus {
-  color: #21bf73;
+  color: #0D3166;
+  text-shadow: 2px 2px 4px #fff;
 }
 
 .slider-text .breadcrumbs span a:hover i,
 .slider-text .breadcrumbs span a:focus i {
-  color: #21bf73;
+  color: #0D3166;
+  text-shadow: 2px 2px 4px #fff;
 }
 
 .slider-text .bread {
@@ -11988,10 +12002,11 @@ h5,
 }
 
 .ftco-animate .bread {
-  background-color: #f0f0f0;
-  background-image: linear-gradient(#0D3166, #073578, #0963e6);
-  -webkit-background-clip: text;
-  color: transparent;
+  color: #0D3166;
+  text-shadow: 2px 2px 5px #FDBE34;
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(13, 49, 102, 0.5);
 }
 
 .owl-carousel {

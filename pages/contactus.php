@@ -2,7 +2,7 @@
     <div class="overlay"></div>
     <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
-            <div class="col-md-9 ftco-animate mb-5 text-center">
+            <div class="col-md-4 ftco-animate mb-5 text-center">
                 <h1 class="mb-3 bread">Contact us</h1>
                 <p class="breadcrumbs"><span class="mr-2"><a href="<?php echo home_url(); ?>">Home <i class="fa fa-chevron-right"></i></a></span> <span>Contact us <i class="fa fa-chevron-right"></i></span></p>
             </div>

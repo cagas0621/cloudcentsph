@@ -4,7 +4,7 @@ get_header();
 require get_template_directory() . '/pages/emailconfig.php';
 ?>
 
-<div class="hero-wrap" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/NEW/introduction.jpg');" data-stellar-background-ratio="0.5">
+<div class="hero-wrap" style="background-image: url('<?php bloginfo('template_directory'); ?>/assets/images/home.jpg');" data-stellar-background-ratio="0.5">
 	<div class="overlay"></div>
 	<div class="overlay-2"></div>
 	<div class="container">
