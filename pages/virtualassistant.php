@@ -18,7 +18,7 @@
             <div class="col-md-6 wrap-about pl-md-5 ftco-animate py-md-5">
                 <div class="heading-section pt-md-4">
                     <h2 class="mb-4">Administrative Tasks</h2>
-                    <ul class="ullisting_circle">
+                    <ul class="ullisting">
                         <li>
                             <h3>Email/inbox management
                             </h3>
