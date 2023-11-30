@@ -14285,6 +14285,10 @@ textarea.form-control {
 
   .btn1 {
     margin-bottom: 10px;
+    width: auto;
+  }
+  .btn2 {
+    width: auto;
   }
 }
 
